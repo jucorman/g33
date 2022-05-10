@@ -1,0 +1,39 @@
+.fondo-nav{
+    background-color: brown;
+}
+
+.texto-blanco a{
+    color:white;
+}
+/*pseudoclases*/
+.texto-blanco a:hover{
+    color:rgb(230, 150, 150)
+}
+
+.fondo-rojo{
+    background-color: red;
+}
+
+.fondo-azul{
+    background-color: blue;
+}
+.fondo-verde{
+    background-color: greenyellow;
+}
+
+
+.fondo-cafe{
+    background-color: chocolate;
+}
+
+.fondo-gray{
+    background-color: gray;
+}
+
+.margin{
+    margin: 7rem 0;
+}
+
+.fondo-calipso{
+    background-color: #17A2B8;
+}
